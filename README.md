@@ -1,7 +1,7 @@
 socle.css
 ======
 
-A reset CSS made for BEM styling.
+A CSS reset optimized for BEM (or any modular) styles.
 
 
 How to Contribute
