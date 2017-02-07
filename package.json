@@ -1,0 +1,28 @@
+{
+  "name": "socle.css",
+  "version": "1.0.0",
+  "description": " A new CSS reset optimized for BEM (or any modular) styles",
+  "main": "index.js",
+  "scripts": {
+    "build": "cat src/base.css src/reset.css src/element.css > dist/socle.css && sqwish dist/socle.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tzi/socle.css.git"
+  },
+  "keywords": [
+    "css",
+    "reset",
+    "bem"
+  ],
+  "author": "Thomas ZILLIOX (http://tzi.fr)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tzi/socle.css/issues"
+  },
+  "homepage": "https://github.com/tzi/socle.css#readme",
+  "devDependencies": {
+    "sqwish": "^0.2.2"
+  }
+}
