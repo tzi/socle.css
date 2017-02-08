@@ -3,9 +3,9 @@ socle.css
 
 A CSS reset optimized for BEM (or any modular) styles.
 
-socle.css combines the behaviour of a CSS boilerplate and [Eric Meyer's Reset CSS](http://meyerweb.com/eric/tools/css/reset/)
+socle.css combines the behaviour of a CSS boilerplate and Eric Meyer's [Reset CSS](http://meyerweb.com/eric/tools/css/reset/) :
 
- * Nice and cross-browser styles for default elements (*work in progress*)
+ * Nice and cross-browser styles for default elements
  * Reset styles for any element with a class attribute
 
 
