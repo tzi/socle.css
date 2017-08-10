@@ -83,6 +83,11 @@ video {
   vertical-align: baseline;
 }
 
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
 ol,
 ul {
   list-style: none;
@@ -186,6 +191,11 @@ li:not([class]) {
 }
 
 /* Inlines */
+
+a:not([class]) {
+  color: blue;
+  text-decoration: underline;
+}
 
 q:not([class]) {
   display: inline;

@@ -86,6 +86,11 @@ li:not([class]) {
 
 /* Inlines */
 
+a:not([class]) {
+  color: blue;
+  text-decoration: underline;
+}
+
 q:not([class]) {
   display: inline;
 }
